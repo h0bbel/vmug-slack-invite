@@ -58,6 +58,7 @@ Point your form to POST to the function URL above. The function expects:
 
 **By form plugin:**
 
+- **Jetpack** Works with the built-in Webhook function
 - **WPForms** — use the free "WP Webhooks" plugin, set webhook URL to your function URL
 - **Gravity Forms** — Webhooks addon (included in most licenses) → form settings → Webhooks
 - **Fluent Forms** — built-in webhook under form settings → Integrations → Webhook
